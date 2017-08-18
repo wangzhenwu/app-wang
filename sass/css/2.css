@@ -1,0 +1,11 @@
+.topbar {
+  width: 200px;
+}
+.topbar .topbar-left {
+  float: left;
+}
+.topbar .topbar-right {
+  float: right;
+}
+
+/*# sourceMappingURL=2.css.map */
